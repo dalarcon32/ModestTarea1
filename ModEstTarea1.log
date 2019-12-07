@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.12.2)  5 DEC 2019 13:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.3)  7 DEC 2019 17:18
 entering extended mode
 **./ModEstTarea1.tex
 (ModEstTarea1.tex
 LaTeX2e <2019-10-01> patch level 3
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -21,35 +20,28 @@ File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2019/11/14 3.36 The Babel package
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
-ef"
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
 File: switch.def 2019/11/14 3.36 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
-g"
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\sp
-anish.ldf"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/babel-spanish\
+spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
-f"
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2019/11/14 3.36 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
-.def")
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@dirlevel=\count89
 )
 \es@quottoks=\toks14
@@ -59,15 +51,14 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -82,11 +73,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
 File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -225,16 +217,14 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathto
-ols.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/mathtools\math
+tools.sty
 Package: mathtools 2019/07/31 v1.22 mathematical typesetting tools
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
-sty"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count91
 \calc@Bcount=\count92
@@ -247,34 +237,27 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count93
 \calc@Cskip=\skip45
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetu
-p.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/mathtools\mhse
+tup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
-)
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
-sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2019/11/16 v2.17d AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen106
 ))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen107
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count94
@@ -329,28 +312,24 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \l_MT_above_shortintertext_sep=\dimen120
 \l_MT_below_shortintertext_sep=\dimen121
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
-w.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/multirow\multi
+row.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip50
 \multirow@cntb=\count107
 \multirow@dima=\skip51
 \bigstrutjot=\dimen122
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.
-sty"
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
-ty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/siunitx\siunit
+x.sty ("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
 Package: expl3 2019-11-07 L3 programming layer (loader) 
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
-ode.tex"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3-code.tex"
 Package: expl3 2019-11-07 L3 programming layer (code)
 \c_max_int=\count108
 \l_tmpa_int=\count109
@@ -503,18 +482,15 @@ Package: expl3 2019-11-07 L3 programming layer (code)
 \l__coffin_display_y_dim=\dimen154
 \g__char_data_ior=\read1
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3depre
-cation.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\l3deprecation.def"
 File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
 ))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
-end-pdfmode.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count195
 \l__pdf_internal_box=\box47
 ))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
-e\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
 Package: xparse 2019-10-11 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count196
 \g__xparse_grabber_int=\count197
@@ -523,7 +499,7 @@ Package: xparse 2019-10-11 L3 Experimental document command parser
 )
 Package: siunitx 2019/10/10 v2.7t A comprehensive (SI) units package
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen155
 \ar@mcellbox=\box48
@@ -533,8 +509,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \backup@length=\skip59
 \ar@cellbox=\box49
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
-s2e\l3keys2e.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box50
@@ -578,12 +553,12 @@ Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip62
 \l__siunitx_table_text_align_skip=\skip63
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\tra
+nslator.sty
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listing
-s.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listi
+ngs.sty
 \lst@mode=\count283
 \lst@gtempboxa=\box57
 \lst@token=\toks24
@@ -597,21 +572,21 @@ s.sty"
 \lst@lineno=\count288
 \lst@maxwidth=\dimen172
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc
-.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstmi
+sc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count289
 \lst@skipnumbers=\count290
 \lst@framebox=\box58
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listing
-s.cfg"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listi
+ngs.cfg
 File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
-s.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\bookt
+abs.sty
 Package: booktabs 2019/10/08 v1.6180339 publication quality tables
 \heavyrulewidth=\dimen173
 \lightrulewidth=\dimen174
@@ -631,12 +606,12 @@ Package: booktabs 2019/10/08 v1.6180339 publication quality tables
 \@lastruleclass=\count294
 \@thisrulewidth=\dimen185
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
-sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\captio
+n.sty
 Package: caption 2019/10/18 v3.4a Customizing captions (AR)
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
-.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\captio
+n3.sty
 Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen186
@@ -652,8 +627,8 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count296
 Package caption Info: listings package is loaded.
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.st
-y"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/amscls\amsthm.
+sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks25
 \thm@bodyfont=\toks26
@@ -664,20 +639,18 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@postskip=\skip65
 \thm@headsep=\skip66
 \dth@everypar=\toks30
-)
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
-.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
-s.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (ModEstTarea1.aux
+))
+(ModEstTarea1.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
@@ -698,38 +671,31 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 3.
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-x.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-s.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
-phics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
-tex.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
--pdf.mkii"
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count297
 \scratchdimen=\dimen193
@@ -742,9 +708,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \MPnumerator=\count301
 \makeMPintoPDFobject=\count302
 \everyMPtoPDFconversion=\toks32
-)))
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
-topdf-base.sty"
+))) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2019-11-30 v2.9 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -752,16 +716,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 \Gin@req@height=\dimen195
 \Gin@req@width=\dimen196
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-basic-dictionary-English.dict"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\tra
+nslator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-basic-dictionary-Spanish.dict"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\tra
+nslator-basic-dictionary-Spanish.dict
 Dictionary: translator-basic-dictionary, Language: Spanish 
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-
-abbreviations.cfg"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/siunitx\siunit
+x-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \c@lstlisting=\count303
@@ -769,16 +733,12 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
-"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 
-
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Underfull \hbox (badness 10000) in paragraph at lines 32--33
@@ -806,7 +766,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [1
 
-{C:/Users/dalarub/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/DavidAlarconRubio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
 Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
@@ -975,16 +936,16 @@ Overfull \hbox (3.49487pt too wide) detected at line 237
  []
 
 
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
-1.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstla
+ng1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
-2.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstla
+ng2.sty
 File: lstlang2.sty 2019/09/10 1.8c listings language file
 )
-("C:\Users\dalarub\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
-3.sty"
+(C:\Users\DavidAlarconRubio\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstla
+ng3.sty
 File: lstlang3.sty 2019/09/10 1.8c listings language file
 )
 Underfull \hbox (badness 10000) in paragraph at lines 241--242
@@ -2014,35 +1975,34 @@ LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 20585 strings out of 492446
- 381023 string characters out of 3118894
- 587492 words of memory out of 3000000
- 24808 multiletter control sequences out of 15000+200000
+ 20585 strings out of 492484
+ 378975 string characters out of 3130011
+ 587227 words of memory out of 3000000
+ 24791 multiletter control sequences out of 15000+200000
  549260 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,13n,67p,712b,2274s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super
-/cm-super-ts1.enc}{C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
-/dvips/cm-super/cm-super-t1.enc}<C:/Users/dalarub/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/dalarub/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/dalarub
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:
-/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb><C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/dalarub/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dalarub/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dal
-arub/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb
-><C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-supe
-r/sfbx1728.pfb><C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/cm-super/sfbx2488.pfb><C:/Users/dalarub/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/dalarub/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/dalarub/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on ModEstTarea1.pdf (15 pages, 219564 bytes).
+ <C:\Users\DavidAlarconRubio\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\tcbx1200.pk> <C:\Users\DavidAlarconRubio\AppData\Local\MiKTeX\2.9\
+fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\DavidAlarconRubio\App
+Data\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users
+\DavidAlarconRubio\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecrm1200.pk> <C:\Users\DavidAlarconRubio\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\DavidAlarconRubio\AppData\Local\Mi
+KTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\DavidAlarcon
+Rubio\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> 
+<C:\Users\DavidAlarconRubio\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecrm2074.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb>
+Output written on ModEstTarea1.pdf (15 pages, 193351 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 326 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
